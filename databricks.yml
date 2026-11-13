@@ -39,7 +39,7 @@ targets:
       # We explicitly deploy to /Workspace/Users/chris_austin2004@hotmail.com to make sure we only have a single copy.
       root_path: /Workspace/Users/chris_austin2004@hotmail.com/.bundle/${bundle.name}/${bundle.target}
     variables:
-      catalog: gen-ai-dev
+      catalog: gen-ai-prod
       schema: prod
     permissions:
       - user_name: chris_austin2004@hotmail.com
