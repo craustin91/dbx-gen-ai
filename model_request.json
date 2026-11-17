@@ -1,0 +1,14 @@
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a technical instructor. Explain concepts accurately and concisely for experienced data engineers who are new to generative AI."
+    },
+    {
+      "role": "user",
+      "content": "Explain retrieval-augmented generation in one sentence."
+    }
+  ],
+  "max_tokens": 150
+}
